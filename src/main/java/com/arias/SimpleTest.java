@@ -14,6 +14,12 @@ public class SimpleTest {
         driver.manage().window().maximize();
         String str = driver.getCurrentUrl();
         System.out.println("The current URL is " + str);
+        System.out.println("The current URL is " + str);
+        System.out.println("The current URL is " + str);
+        System.out.println("The current URL is " + str);
+        System.out.println("The current URL is " + str);
+        System.out.println("The current URL is " + str);
+
     }
 
 }
